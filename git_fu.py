@@ -1,2 +1,2 @@
-print("esete es un nuevo archivo modificado de la rama master")
+print("esete es un nuevo archivo modificado de la rama conflict-brach!")
 
