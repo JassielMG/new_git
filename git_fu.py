@@ -1,2 +1,2 @@
-print("esete es un nuevo archivo modificado en la raiz")
+print("esete es un nuevo archivo modificado en conflict branch")
 
